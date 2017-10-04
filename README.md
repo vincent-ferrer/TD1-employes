@@ -2,8 +2,7 @@
 
 ### IUT d’Aix-Marseille – Département Informatique Aix-en-Provence
 
-## TD1
-Java -- héritage vs composition, collections, sérialisation, un premier pattern
+## TD1 : Java -- héritage vs composition, collections et un premier pattern
 
 * Le support du cours est disponible [ici](https://github.com/IUTInfoAix-M3105/Ressources)
 * Le [forum Piazza](https://piazza.com/univ-amu.fr/fall2017/m3105/home) de ce cours pour poser vos questions
