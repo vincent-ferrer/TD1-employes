@@ -120,8 +120,8 @@ public abstract class Employe {
                 ", dateEmbauche=" + dateEmbauche +
                 ", base=" + base +
                 ", nbHeures=" + nbHeures +
-                ", Salire brut=" + this.getsalaireBrut() +
-                ", Salire net=" + this.getsalaireNet() +
+                ", Salaire brut=" + this.getsalaireBrut() +
+                ", Salaire net=" + this.getsalaireNet() +
                 "} \n";
     }
 
