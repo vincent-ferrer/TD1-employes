@@ -1,8 +1,8 @@
-package fr.univ_amu.iut.exo2;
+package fr.univ_amu.iut.exo2.Employe;
 
 import java.time.LocalDate;
 
-public class Technicien extends Employe{
+public class Technicien extends Employe {
     private int nbUnitesProduites;
     private double tauxCommissionUnite;
 

@@ -1,5 +1,6 @@
-package fr.univ_amu.iut.exo2;
+package fr.univ_amu.iut.exo2.Employe.Commercial;
 
+import fr.univ_amu.iut.exo2.Employe.Employe;
 import java.time.LocalDate;
 
 public abstract class Commercial extends Employe {

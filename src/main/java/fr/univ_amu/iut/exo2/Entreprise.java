@@ -1,5 +1,7 @@
 package fr.univ_amu.iut.exo2;
 
+import fr.univ_amu.iut.exo2.Employe.Employe;
+
 import java.util.Arrays;
 
 public class Entreprise {
